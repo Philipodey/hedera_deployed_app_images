@@ -1,0 +1,23 @@
+Hello Future message
+
+🎉 Hello Future World - HCS Topic - complete
+
+🔢 Summary metrics  …
+
+Has completed a task: true
+First task completed ID: hcsTopic
+Time to first task completion: 10min 5.9s
+Time to all tasks completion: 10min 5.9s
+Total number of task completions: 1
+
+Completed tasks: 1
+(1) Task ID: hcsTopic (latest)
+Time taken to complete (first): 4min 47.4s
+Time taken to complete (latest): 4min 47.4s
+Errors prior to completion: 0
+
+Attempted but incomplete tasks: 0
+
+View HCS metrics on HashScan:
+ https://hashscan.io/testnet/topic/0.0.4573319 
+Using the anonymised key: bca5687d9b0ecfd6c5f3e014d84c04ea

@@ -1,0 +1,20 @@
+Five minutes summary
+🔢 Summary metrics  …
+
+Has completed a task: true
+First task completed ID: 5minHtsTokenLaunchChallenge
+Time to first task completion: 25min 41.8s
+Time to all tasks completion: 25min 41.8s
+Total number of task completions: 1
+
+Completed tasks: 1
+(1) Task ID: 5minHtsTokenLaunchChallenge (latest)
+Time taken to complete (first): 3min 43.7s
+Time taken to complete (latest): 3min 43.7s
+Errors prior to completion: 0
+
+Attempted but incomplete tasks: 0
+
+View HCS metrics on HashScan:
+ https://hashscan.io/testnet/topic/0.0.4576382 
+Using the anonymised key: a575b2cc59cce2bf9771f5d86351ec40

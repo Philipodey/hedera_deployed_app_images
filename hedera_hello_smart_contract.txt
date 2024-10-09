@@ -1,0 +1,24 @@
+HSCS Smart Solidarity Contracts
+
+Smart contract write transaction Hashscan URL:
+ https://hashscan.io/testnet/transaction/0x6b209c38e22b300010a151655a983b21528b32a66fa7032e081c7d2a87ea1739
+
+🔢 Summary metrics  …
+
+Has completed a task: true
+First task completed ID: hscsSC
+Time to first task completion: 43min 37.3s
+Time to all tasks completion: 43min 37.3s
+Total number of task completions: 1
+
+Completed tasks: 1
+(1) Task ID: hscsSC (latest)
+Time taken to complete (first): 38min 2.9s
+Time taken to complete (latest): 11min 5.3s
+Errors prior to completion: 2
+
+Attempted but incomplete tasks: 0
+
+View HCS metrics on HashScan:
+ https://hashscan.io/testnet/topic/0.0.4573319 
+Using the anonymised key: 65b01abf36aa1d4b32be5afbffeec7e2
